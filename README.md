@@ -10,6 +10,12 @@
 
 - ⚡ Owner + Developer **RobILGame Community**
 
+**const EVPlayer = {
+  code:  [Javascript, Python, Lua],
+  tools: [Discord.js, Linux],
+  learn: [NodeJS, React]
+}**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="EVPlayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@evplayer3106" height="30" width="40" /></a>
