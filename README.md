@@ -20,8 +20,7 @@ const EVPlayer = {
   learn: [NodeJS, React, Lua]
 }
 ```
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/953997385233756210)
+[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/sECQGYcbnW)
 
 [![GitHub EVPlayerR](https://img.shields.io/github/followers/EVPlayerR?label=follow&style=social)](https://github.com/EVPlayerR)
 
