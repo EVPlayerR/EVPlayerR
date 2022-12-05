@@ -17,7 +17,7 @@
 const EVPlayer = {
   code:  [Javascript, Python, Lua],
   tools: [Discord.js, Linux],
-  learn: [NodeJS, React]
+  learn: [NodeJS, React, Lua]
 }
 ```
 
