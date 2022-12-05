@@ -20,7 +20,7 @@ const EVPlayer = {
   learn: [NodeJS, React, Lua]
 }
 ```
-[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/sECQGYcbnW)
+
 
 [![GitHub EVPlayerR](https://img.shields.io/github/followers/EVPlayerR?label=follow&style=social)](https://github.com/EVPlayerR)
 
