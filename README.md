@@ -10,11 +10,13 @@
 
 - ⚡ Owner + Developer **RobILGame Community**
 
-**const EVPlayer = {
+```javascript
+const EVPlayer = {
   code:  [Javascript, Python, Lua],
   tools: [Discord.js, Linux],
   learn: [NodeJS, React]
-}**
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
