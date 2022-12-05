@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **robilgamepublic@gmail.com**
 
+- 🖲️ Discord **https://discord.gg/GUHfMa9pCH**
+
 - ⚡ Owner + Developer **RobILGame Community**
 
 **😃 More about me:**
