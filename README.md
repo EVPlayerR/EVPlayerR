@@ -21,6 +21,8 @@ const EVPlayer = {
 }
 ```
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/953997385233756210)
+
 [![GitHub EVPlayerR](https://img.shields.io/github/followers/EVPlayerR?label=follow&style=social)](https://github.com/EVPlayerR)
 
 
