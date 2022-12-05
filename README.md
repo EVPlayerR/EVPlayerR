@@ -21,7 +21,7 @@ const EVPlayer = {
 }
 ```
 
-[![GitHub EVPlayer](https://img.shields.io/github/followers/EVPlayer?label=follow&style=social)](https://github.com/EVPlayer)
+[![GitHub EVPlayerR](https://img.shields.io/github/followers/EVPlayerR?label=follow&style=social)](https://github.com/EVPlayerR)
 
 
 <h3 align="left">Connect with me:</h3>
