@@ -10,7 +10,7 @@
 
 - ⚡ Owner + Developer **RobILGame Community**
 
-** 😃 More about me:**
+** 😃 More about me: **
 ```javascript
 const EVPlayer = {
   code:  [Javascript, Python, Lua],
