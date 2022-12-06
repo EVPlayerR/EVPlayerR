@@ -15,7 +15,7 @@
 **😃 More about me:**
 ```javascript
 const EVPlayer = {
-  code:  [Javascript, Python, Lua],
+  code:  [Javascript, Python, Lua, React, Html],
   tools: [Discord.js, Linux, React],
   learn: [NodeJS, React, Lua]
 }
