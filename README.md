@@ -1,6 +1,6 @@
 <h3 align="center">About me ❓</h3>
 
-- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python, React**
+- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python, React, Html**
 
 - 🌱 Learn: **Linux, NodeJS, Lua**
 
