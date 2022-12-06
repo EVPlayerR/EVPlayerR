@@ -24,6 +24,7 @@ const EVPlayer = {
 
 [![GitHub EVPlayerR](https://img.shields.io/github/followers/EVPlayerR?label=follow&style=social)](https://github.com/EVPlayerR)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EVPlayerR&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
