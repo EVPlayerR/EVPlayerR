@@ -1,8 +1,8 @@
 <h3 align="center">About me ❓</h3>
 
-- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python, React, Html**
+- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python**
 
-- 🌱 Learn: **Linux, NodeJS, Lua**
+- 🌱 Learn: **Linux, NodeJS, Lua, Html**
 
 - 🎮 Playing games: **Minecraft, Roblox**
 
