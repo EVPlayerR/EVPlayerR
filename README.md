@@ -2,7 +2,7 @@
 
 - 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python**
 
-- 🌱 Learn: **Linux, NodeJS, Lua, Html**
+- 🌱 Learn: **NodeJS, Lua, Html**
 
 - 🎮 Playing games: **Minecraft, Roblox**
 
