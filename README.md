@@ -1,16 +1,16 @@
 <h3 align="center">About me ❓</h3>
 
-- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, NodeJS, Python**
+- 🛠️ I'm israeli Developer. **Programming languages: JavaScript, Python, Lua**
 
-- 🌱 Learn: **NodeJS, Lua, Html**
+- 🌱 Learn: **NodeJS, C#, Html, Css**
 
 - 🎮 Playing games: **Minecraft, Roblox**
 
 - 📫 How to reach me **robilgamepublic@gmail.com**
 
-- 🖲️ Discord **https://discord.gg/GUHfMa9pCH**
+- 🖲️ Discord **https://discord.gg/robloxstudioil**
 
-- ⚡ Owner + Developer **RobILGame Community**
+- ⚡ Owner **Roblox Studio IL**
 
 **😃 More about me:**
 ```javascript
